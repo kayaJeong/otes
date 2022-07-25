@@ -1,5 +1,5 @@
 <%@ page import="java.util.*,java.io.*,dao.*,malgnsoft.db.*,malgnsoft.util.*" %><%
-
+//pr test
 //객체
 Malgn m = new Malgn(request, response, out);
 
