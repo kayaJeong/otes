@@ -1,0 +1,7 @@
+resin-web.xml
+web.xml
+.idea
+*.iml
+logs
+work
+data
